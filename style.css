@@ -1,0 +1,28 @@
+h1 {color: rgb(116, 53, 24);
+}
+h1 {text-align: center;}
+h1 {.rajdhani-regular 
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h2 {color: rgb(185, 120, 97);}
+  h2 { text-align: center;}
+  h2 {.barlow-condensed-regular 
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h3 {color: lightsalmon;}
+  h3 {text-align: center;}
+  h3 {.rajdhani-regular 
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h1{border-color: black;
+border-style: solid;
+border-width: 3px;
+}
+h1 {margin-left: 40%;margin-right: 40%;}
+h1 
